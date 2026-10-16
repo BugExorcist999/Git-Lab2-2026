@@ -12,6 +12,8 @@ Priority: Standard
 2. Locate the user account.
 3. Generate a temporary password.
 4. Require password change at next login.
+5. Confirm that the password reset is complete.
+
 
 ## Escalation
 
