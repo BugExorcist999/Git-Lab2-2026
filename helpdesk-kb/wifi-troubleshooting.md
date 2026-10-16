@@ -10,6 +10,13 @@ Priority: Standard
 
 This guide provides common troubleshooting steps for wireless connectivity issues.
 
+## Slow Wireless Connections
+1.Restart your router and device
+2.Check Wi-Fi signal - move closer to the router
+3.Disconnect unused devices from Wi-Fi.
+4.Forget and reconnect to  Wi-Fi network.
+5.Contact your internet provider if the problem continues.
+
 ## Unable to Connect to Wi‑Fi
 
 1. Verify that Wi‑Fi is enabled on the device.
